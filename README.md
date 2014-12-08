@@ -1,4 +1,6 @@
-ciot_temperature_shield
+Temperature Shield
 =======================
 
-A temperature shield (DHTx) that send informations to CIOT server
+A temperature shield (DHTx) that send informations to CIOT server.
+
+On eagle directory has a sch and brd for schematic and board ;)
