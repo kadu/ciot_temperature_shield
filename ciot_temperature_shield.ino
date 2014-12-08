@@ -1,0 +1,1 @@
+/home/kadu/sketchbook/new_temperatura/new_temperatura.ino
